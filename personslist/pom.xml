@@ -18,10 +18,8 @@
 		<local.server.host>localhost</local.server.host>
 	</properties>
 	<modules>
-		<!-- 
 		<module>personslist-model-jpa</module>
 		<module>personslist-web</module>
-		-->
 	</modules>
 	<dependencies>
 		<!-- Test dependencies -->
